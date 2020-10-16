@@ -164,6 +164,10 @@ img {
     font-weight: bold;
     line-height: 1.14;
 }
+.activity-text {
+    line-height: 1.714;
+    color: var(--title-text-color);
+}
 .work {
     padding-bottom: 94px;
 }
