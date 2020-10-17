@@ -301,12 +301,12 @@ img {
 .social-list__link:hover .social-list__svg {
     fill: #FFFFFF;
 }
-.klients-list__items {
+.clients-list__items {
     display: flex;
     justify-content: space-between;
     padding: 0px;
 }
-.klients-list__link {
+.clients-list__link {
     content: '';
     display: block;
     width: 170px;
@@ -314,19 +314,19 @@ img {
     border: 1px solid #AFB1B8; 
     border-radius: 4px;
 }
-.klients-list__link:hover {
+.clients-list__link:hover {
     color: var(--accent-color);
     border-color: var(--accent-color);
 }
-.klients-list__link:hover {
+.clients-list__link:hover {
     color: var(--accent-color);
 }
-.klients-list__link {
+.clients-list__link {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.klients-svg {
+.clients-svg {
     fill: #AFB1B8;
 }
 
