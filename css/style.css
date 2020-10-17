@@ -141,7 +141,12 @@ img {
     height: 16px;
     fill: #757575;
 }
-
+.svg-items {
+    display: inline-block;
+}
+.svg-items:hover {
+    color: var(--accent-color);
+}
 .contacts:not(:last-child) {
     margin-right: 50px;
 }
