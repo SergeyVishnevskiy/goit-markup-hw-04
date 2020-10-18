@@ -317,7 +317,6 @@ img {
     border-radius: 4px;
 }
 .clients-list__link:hover {
-    color: var(--accent-color);
     border-color: var(--accent-color);
 }
 .clients-svg {
@@ -325,6 +324,7 @@ img {
 }
 .clients-list__link:hover .clients-svg {
     fill: var(--accent-color);
+    border-color: var(--accent-color);
 }
 
 /* footer */
